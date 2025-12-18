@@ -17,3 +17,6 @@
 
 ## 2. Windsurf (Codeium)
 ...
+
+# Bölüm 2: Karşılaştırmalı Analiz
+
